@@ -1,0 +1,23 @@
+"id","name","type","partnerId","integratorId","adminName","adminMobile","adminEmail","adminEditable","extServicesState","createdAt","updatedAt","country"
+712,praveen homes,office,16,1,praveen,+919959491312,lvss.sales@gmail.com,true,in_sync,2021-11-19 14:12:38.646 +0530,2022-04-03 11:53:09.058 +0530,IN
+713,Security Intelligent and Integration System,office,42,1,Andrew,+233207567000,Allqafgroup@qafgrouplimited.com,true,in_sync,2021-11-19 16:08:21.691 +0530,2021-11-19 16:09:44.216 +0530,IN
+720,Demo,office,31,1,Cameron,+27658091817,support@sabreproducts.com,true,in_sync,2021-11-24 15:07:45.674 +0530,2021-11-24 15:07:59.644 +0530,ZA
+1116,PriyankaAug10,office,7,1,pRIYANKA,+917875722802,priyanka.k@spintly.com,true,create_failed,2022-08-10 12:00:21.133 +0530,2022-08-10 12:00:21.708 +0530,IN
+1671,Dura-Line India Pvt. Ltd.,office,1,2,Admin,+918625362273,admin_Dura-Line India Pvt. Ltd.@example.com,true,create_failed,2022-10-17 18:52:23.831 +0530,2022-10-17 18:52:26.143 +0530,IN
+1672,Careernet Technologies (P) LTD.,office,1,2,Admin,+918625362273,admin_Careernet Technologies (P) LTD.@example.com,true,create_failed,2022-10-17 18:52:23.892 +0530,2022-10-17 18:52:26.222 +0530,IN
+1673,Sankalp Semiconductor Pvt. Ltd.,office,1,2,Admin,+918625362273,admin_Sankalp Semiconductor Pvt. Ltd.@example.com,true,create_failed,2022-10-17 18:52:24.604 +0530,2022-10-17 18:52:26.731 +0530,IN
+1674,BMC Software India Pvt. Ltd,office,1,2,Admin,+918625362273,admin_BMC Software India Pvt. Ltd@example.com,true,create_failed,2022-10-17 18:52:26.366 +0530,2022-10-17 18:52:27.034 +0530,IN
+1675,"360 Business & Services Taxation & Project Consultant Expert",office,1,2,Admin,+918625362273,admin_360 Business & Services Taxation & Project Consultant Expert@example.com,true,create_failed,2022-10-17 18:52:26.388 +0530,2022-10-17 18:52:27.007 +0530,IN
+1676,Adroit Infotech Limited,office,1,2,Admin,+918625362273,admin_Adroit Infotech Limited@example.com,true,create_failed,2022-10-17 18:52:26.469 +0530,2022-10-17 18:52:27.080 +0530,IN
+2146,Kumar Dept Management Consultants Pvt Ltd,office,1,2,Admin,+918625362273,admin_Kumar Dept Management Consultants Pvt Ltd@example.com,true,create_failed,2022-10-18 12:38:12.597 +0530,2022-10-18 12:38:32.612 +0530,IN
+2234,Technowing,office,37,1,Sweta Naik,+918975306150,sweta.n@spintly.com,true,in_sync,2022-11-21 12:43:22.999 +0530,2022-11-21 12:43:23.499 +0530,IN
+2235,IFSEC_SPINTLY,office,42,1,Avinash ,+918147993315,avinash.p@spintly.com,true,in_sync,2022-11-21 16:06:26.713 +0530,2022-11-23 12:10:25.136 +0530,IN
+2236,Tenant Organisation,office,37,1,shubhang,+919405922118,priyanka.k@spintly.com,true,in_sync,2022-11-21 16:14:05.617 +0530,2022-11-21 16:14:06.005 +0530,IN
+2237,Ziff Davis Performance Marketing,office,1,2,Admin,+918625362273,admin_Ziff Davis Performance Marketing@example.com,true,in_sync,2022-11-22 12:21:01.828 +0530,2022-11-22 12:21:02.777 +0530,IN
+2238,Asokaa Developers pvt.ltd,office,46,1,Faisal Azeez,+916301013286,Azeez@keanesoft.com,true,in_sync,2022-11-22 16:21:09.813 +0530,2022-11-22 22:44:00.993 +0530,IN
+2239,Finindia Financial Consultants,office,1,2,Admin,+918625362273,admin_Finindia Financial Consultants@example.com,true,in_sync,2022-11-22 17:27:44.284 +0530,2022-11-22 17:27:48.176 +0530,IN
+2240,Krones India Private Limited,office,1,2,Admin,+918625362273,admin_Krones India Private Limited@example.com,true,in_sync,2022-11-22 18:24:11.406 +0530,2022-11-22 18:24:15.384 +0530,IN
+2241,Falconx,office,37,1,Priyanka,+917875722802,priyanka.k@spintly.com,true,in_sync,2022-11-22 22:27:12.820 +0530,2022-11-22 22:27:13.369 +0530,IN
+2242,TPC Stonebrae,hospitality,42,1,Trish Gregovich,+19252121057,tgregovich@stonebrae.com,true,update_failed,2022-11-22 23:01:41.442 +0530,2022-11-22 23:02:40.406 +0530,US
+2243,TPC Stonebrae,hospitality,42,1,Dan Thomas,+14082012252,daniel.t@spintly.com,true,in_sync,2022-11-22 23:05:55.443 +0530,2022-11-22 23:05:55.881 +0530,US
+2244,Tenant_test_9,office,1,2,Admin,+918625362273,admin_Tenant_test_9@example.com,true,in_sync,2022-11-22 23:26:39.315 +0530,2022-11-22 23:26:42.592 +0530,IN
